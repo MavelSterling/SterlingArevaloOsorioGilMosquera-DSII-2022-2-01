@@ -10,9 +10,8 @@ Integrantes:
  - Mavelyn Sterling
 
 Clonación del proyecto:
-```
+
 git clone MavelSterling/SterlingArevaloOsorioGilMosquera-DSII-2022-2-01
-```
 
 Para ver el contenido:
 
